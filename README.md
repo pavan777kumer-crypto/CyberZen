@@ -1,4 +1,4 @@
-# SentryGrid — AI-Based Cybersecurity Alert Correlation and Alert Fatigue Reduction System
+# CyberZen
 
 ## Overview
 
